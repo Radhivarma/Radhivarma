@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 My Name is **Radhivarma**. 
 ##Aspiring Software Developer
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: Him
 - ⚡ Fun fact: AP in Sri Shakthi Institute of Engineering and Technology
--->
